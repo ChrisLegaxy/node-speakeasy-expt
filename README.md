@@ -1,4 +1,4 @@
-# Speakeasy with Node Experiment
+# Speakeasy with Node
 
 Experimenting 2 factor authentication with Speakeasy and Google Authenticator using Node JS
 
@@ -39,4 +39,9 @@ $ yarn dev
 ## License
 
 MIT License  
+
+## Credit
+
+- Thanks to Brad Traversy video for spreading the awareness on [Youtube]( https://www.youtube.com/watch?v=KQya9i6czhM)
+- Amazing implementation guide by Jeremy Kithome on [LogRocket Blog](https://blog.logrocket.com/implementing-two-factor-authentication-using-speakeasy/)
 
